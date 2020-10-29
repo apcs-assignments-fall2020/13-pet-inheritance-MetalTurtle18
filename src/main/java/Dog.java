@@ -12,6 +12,7 @@ public class Dog extends Pet {
 
     public Dog() {
         super();
+        this.breed = "Boxer";
     }
 
     // makeNoise() method
